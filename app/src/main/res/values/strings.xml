@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReminderNote</string>
+    <string name="title">Type Title</string>
+    <string name="content">Type Text Here</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+
+</resources>
